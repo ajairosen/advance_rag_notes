@@ -1,0 +1,5 @@
+python version = 3.11.13
+
+
+# Run this first in a conda environment 
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126

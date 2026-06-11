@@ -1,0 +1,12 @@
+langchain_community
+langchain-core
+langchain-groq
+beautifulsoup4
+ipykernel
+python-dotenv
+langsmith
+langchain-text-splitters
+sentence-transformers
+langchain-huggingface
+faiss-cpu
+tiktoken
